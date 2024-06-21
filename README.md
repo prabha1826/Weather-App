@@ -18,16 +18,16 @@
 ### Snapshot
 
 * Default 
-<img src="ss/demo1.png" width="100%">
+<img src="demo1.png" width="100%">
 
 * when you entered any valid city
- <img src="ss/demo2.png" width="100%">
+ <img src="demo2.png" width="100%">
 
 * when you did'nt entered anything 
- <img src="ss/empty.png" width="100%">
+ <img src="empty.png" width="100%">
 
 * when entered city did'nt matched with data
- <img src="ss/badinput.png" width="100%">
+ <img src="badinput.png" width="100%">
 
 
 
